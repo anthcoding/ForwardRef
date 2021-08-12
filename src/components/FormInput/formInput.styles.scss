@@ -1,0 +1,20 @@
+.formContainer {
+  background-color: #161b22;
+  border-radius: 40px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  height: 250px;
+  width: 400px;
+
+  .button {
+    background-color: #21262b;
+    color: #ecf2f8;
+    margin: 20px;
+    border: none;
+    border-radius: 4px;
+    font-size: 1.1rem;
+    padding: 10px;
+  }
+}
